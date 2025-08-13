@@ -13,7 +13,7 @@ import Orders from './pages/Orders';
 import Footer from './components/Footer';
 import SearchBar from './components/SearchBar';
 import { ToastContainer, toast } from 'react-toastify';
-import Verify from './pages/verify';
+import Verify from './pages/Verify.jsx';
 
 const App = () => {
   return (
