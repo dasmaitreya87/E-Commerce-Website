@@ -1,0 +1,1262 @@
+[
+  {
+    "_id": "15970",
+    "name": "Turtle Check Men Navy Blue Shirt",
+    "description": "Navy Blue Shirts",
+    "price": 32.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/15970.jpg", 
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "39386",
+    "name": "Peter England Men Party Blue Jeans",
+    "description": "Blue Jeans",
+    "price": 55.75,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "date": "2025-08-01",
+    "image": "images/39386.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "59263",
+    "name": "Titan Women Silver Watch",
+    "description": "Silver Watches",
+    "price": 89.99,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/59263.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "21379",
+    "name": "Manchester United Men Solid Black Track Pants",
+    "description": "Black Track Pants",
+    "price": 41.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "date": "2025-08-01",
+    "image": "images/21379.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "53759",
+    "name": "Puma Men Grey T-shirt",
+    "description": "Grey Tshirts",
+    "price": 28.25,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/53759.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "1855",
+    "name": "Inkfruit Mens Chain Reaction T-shirt",
+    "description": "Grey Tshirts",
+    "price": 24.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/1855.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "30805",
+    "name": "Fabindia Men Striped Green Shirt",
+    "description": "Green Shirts",
+    "price": 38.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/30805.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "26960",
+    "name": "Jealous 21 Women Purple Shirt",
+    "description": "Purple Shirts",
+    "price": 35.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/26960.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "29114",
+    "name": "Puma Men Pack of 3 Socks",
+    "description": "Navy Blue Socks",
+    "price": 12.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Socks",
+    "date": "2025-08-01",
+    "image": "images/29114.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "30039",
+    "name": "Skagen Men Black Watch",
+    "description": "Black Watches",
+    "price": 79.99,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/30039.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "9204",
+    "name": "Puma Men Future Cat Remix SF Black Casual Shoes",
+    "description": "Black Casual Shoes",
+    "price": 65.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/9204.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "48123",
+    "name": "Fossil Women Black Huarache Weave Belt",
+    "description": "Black Belts",
+    "price": 49.99,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Belts",
+    "date": "2025-08-01",
+    "image": "images/48123.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "18653",
+    "name": "Fila Men Cush Flex Black Slippers",
+    "description": "Black Flip Flops",
+    "price": 22.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Flip Flops",
+    "date": "2025-08-01",
+    "image": "images/18653.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "47957",
+    "name": "Murcia Women Blue Handbag",
+    "description": "Blue Handbags",
+    "price": 75.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Bags",
+    "date": "2025-08-01",
+    "image": "images/47957.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "46885",
+    "name": "Ben 10 Boys Navy Blue Slippers",
+    "description": "Navy Blue Flip Flops",
+    "price": 18.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Kids",
+    "subCategory": "Flip Flops",
+    "date": "2025-08-01",
+    "image": "images/46885.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "12369",
+    "name": "Reid & Taylor Men Check Purple Shirts",
+    "description": "Purple Shirts",
+    "price": 42.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/12369.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "29928",
+    "name": "Police Men Black Dial Watch PL12889JVSB",
+    "description": "Black Watches",
+    "price": 95.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/29928.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "42419",
+    "name": "Gini and Jony Girls Knit White Top",
+    "description": "White Tops",
+    "price": 29.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/42419.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "51832",
+    "name": "Bwitch Beige Full-Coverage Bra BW335",
+    "description": "Beige Bra",
+    "price": 21.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Innerwear",
+    "date": "2025-08-01",
+    "image": "images/51832.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "47359",
+    "name": "Baggit Women Brown Handbag",
+    "description": "Brown Handbags",
+    "price": 68.75,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Bags",
+    "date": "2025-08-01",
+    "image": "images/47359.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "17429",
+    "name": "CASIO G-Shock Men Black Digital Watch G-7710-1DR G223",
+    "description": "Black Watches",
+    "price": 125.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/17429.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "12967",
+    "name": "ADIDAS Men Spry M Black Sandals",
+    "description": "Black Sandals",
+    "price": 30.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Sandal",
+    "date": "2025-08-01",
+    "image": "images/12967.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "6842",
+    "name": "Timberland Unisex Rubber Sole Brush Shoe Accessories",
+    "description": "Black Shoe Accessories",
+    "price": 15.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Unisex",
+    "subCategory": "Shoe Accessories",
+    "date": "2025-08-01",
+    "image": "images/6842.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "13089",
+    "name": "ADIDAS Men Lfc Auth Hood Grey Sweatshirts",
+    "description": "Grey Sweatshirts",
+    "price": 49.99,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/13089.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "18461",
+    "name": "David Beckham Signature Men Deos",
+    "description": "White Deodorant",
+    "price": 26.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Fragrance",
+    "date": "2025-08-01",
+    "image": "images/18461.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "9036",
+    "name": "Buckaroo Men Flores Black Formal Shoes",
+    "description": "Black Formal Shoes",
+    "price": 85.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/9036.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "48311",
+    "name": "Pitaraa Women Bronze Beaded Bracelet",
+    "description": "Bronze Bracelet",
+    "price": 17.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Jewellery",
+    "date": "2025-08-01",
+    "image": "images/48311.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "7990",
+    "name": "Fila Men's Round Neck Navy Blue T-shirt",
+    "description": "Navy Blue Tshirts",
+    "price": 27.75,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/7990.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "56019",
+    "name": "Colorbar Soft Touch Show Stopper Copper Lipstick 037",
+    "description": "Brown Lipstick",
+    "price": 14.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Lips",
+    "date": "2025-08-01",
+    "image": "images/56019.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "21977",
+    "name": "Murcia Women Casual Brown Handbag",
+    "description": "Brown Handbags",
+    "price": 72.99,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Bags",
+    "date": "2025-08-01",
+    "image": "images/21977.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "37812",
+    "name": "John Players Men Navy Blue Shirt",
+    "description": "Navy Blue Shirts",
+    "price": 36.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/37812.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "4729",
+    "name": "Disney Kids Boy's Crew Sea Life Sialing Green Teen Kidswear",
+    "description": "Green Tshirts",
+    "price": 25.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/4729.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "56825",
+    "name": "John Players Men Brown Shirt",
+    "description": "Brown Shirts",
+    "price": 40.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/56825.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "39988",
+    "name": "Gas Men Europa White Shoes",
+    "description": "White Casual Shoes",
+    "price": 62.99,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/39988.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "59051",
+    "name": "Carlton London Women Black & Gold Toned Flats",
+    "description": "Black Flats",
+    "price": 45.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/59051.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "20099",
+    "name": "Diva Women Embroided Green Kurta",
+    "description": "Green Kurtas",
+    "price": 34.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/20099.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "58183",
+    "name": "Rocky S Women White Handbag",
+    "description": "White Handbags",
+    "price": 78.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Bags",
+    "date": "2025-08-01",
+    "image": "images/58183.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "29742",
+    "name": "Kiara Women Teal Handbag",
+    "description": "Teal Handbags",
+    "price": 69.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Bags",
+    "date": "2025-08-01",
+    "image": "images/29742.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "51658",
+    "name": "Fossil Women Copper Chronograph Watch CH2589",
+    "description": "Copper Watches",
+    "price": 99.99,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/51658.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "3954",
+    "name": "Jealous 21 Women's Pink T-shirt",
+    "description": "Pink Tshirts",
+    "price": 29.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/3954.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "18839",
+    "name": "Peter England Men Formal Black Belt",
+    "description": "Black Belts",
+    "price": 31.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Belts",
+    "date": "2025-08-01",
+    "image": "images/18839.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "2886",
+    "name": "Catwalk Women Leather Brown Flats",
+    "description": "Brown Flats",
+    "price": 54.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/2886.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "23278",
+    "name": "Maxima Ssteele Men Off White Watch",
+    "description": "Off White Watches",
+    "price": 87.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/23278.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "28690",
+    "name": "W Women Printed Beige Kurta",
+    "description": "Beige Kurtas",
+    "price": 43.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/28690.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "8580",
+    "name": "Scullers Men Grey Waistcoat",
+    "description": "Grey Waistcoat",
+    "price": 60.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/8580.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "3168",
+    "name": "Nike Men's Incinerate MSL White Blue Shoe",
+    "description": "White Sports Shoes",
+    "price": 70.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/3168.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "18005",
+    "name": "Puma Men Long Logo Black Bermuda",
+    "description": "Black Shorts",
+    "price": 33.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "date": "2025-08-01",
+    "image": "images/18005.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "17871",
+    "name": "Levis Men Boxer Maroon Brief",
+    "description": "Maroon Briefs",
+    "price": 19.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Innerwear",
+    "date": "2025-08-01",
+    "image": "images/17871.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "9452",
+    "name": "John Miller Men Stripes White Red Shirts",
+    "description": "Red Shirts",
+    "price": 39.99,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/9452.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "38402",
+    "name": "Baggit Women Hood Dabang Black Belt",
+    "description": "Black Belts",
+    "price": 28.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Belts",
+    "date": "2025-08-01",
+    "image": "images/38402.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "44984",
+    "name": "Maxima Women White Dial Watch",
+    "description": "White Watches",
+    "price": 82.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/44984.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "10268",
+    "name": "Clarks Men Hang Work Leather Black Formal Shoes",
+    "description": "Black Formal Shoes",
+    "price": 98.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/10268.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "45856",
+    "name": "Vishudh Women Brown Kurta",
+    "description": "Brown Kurtas",
+    "price": 37.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/45856.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "32138",
+    "name": "Playboy Men Blue Titanium Briefs",
+    "description": "Blue Briefs",
+    "price": 20.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Innerwear",
+    "date": "2025-08-01",
+    "image": "images/32138.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "59435",
+    "name": "Arrow Men Black Formal Shoes",
+    "description": "Black Formal Shoes",
+    "price": 110.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/59435.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "5891",
+    "name": "Puma Men's Stripe Polo Black T-shirt",
+    "description": "Black Tshirts",
+    "price": 31.99,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/5891.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "38630",
+    "name": "Nike Women Purple Polo T-shirt",
+    "description": "Purple Tshirts",
+    "price": 30.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/38630.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "4943",
+    "name": "Gini and Jony Boy's Kaleb White Brown Kidswear",
+    "description": "White Shirts",
+    "price": 24.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/4943.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "11188",
+    "name": "Carrera Men Dial steel finish strap Silver Watches",
+    "description": "Silver Watches",
+    "price": 93.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/11188.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "10866",
+    "name": "Wrangler Men Motor Rider Red T-Shirts",
+    "description": "Red Tshirts",
+    "price": 34.99,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/10866.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "59607",
+    "name": "FNF Pink & Grey Wedding Collection Sari",
+    "description": "Grey Sarees",
+    "price": 120.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Saree",
+    "date": "2025-08-01",
+    "image": "images/59607.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "15528",
+    "name": "Puma Men Scribble Black Tshirts",
+    "description": "Black Tshirts",
+    "price": 29.50,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "date": "2025-08-01",
+    "image": "images/15528.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "45258",
+    "name": "CASIO EDIFICE Men Black Dial Chronograph Watch ED60",
+    "description": "Black Watches",
+    "price": 150.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Watches",
+    "date": "2025-08-01",
+    "image": "images/45258.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "42841",
+    "name": "French Connection Women Beige Handbag",
+    "description": "Beige Handbags",
+    "price": 80.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Women",
+    "subCategory": "Bags",
+    "date": "2025-08-01",
+    "image": "images/42841.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "22198",
+    "name": "Timberland Men Black Casual Shoes",
+    "description": "Black Casual Shoes",
+    "price": 75.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/22198.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "29570",
+    "name": "Vans Men Classic Slip-On Purple & Black Shoes",
+    "description": "Purple Casual Shoes",
+    "price": 58.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/29570.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "43993",
+    "name": "Police Women Passion Perfume",
+    "description": "Pink Perfume and Body Mist",
+    "price": 40.00,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Women",
+    "subCategory": "Fragrance",
+    "date": "2025-08-01",
+    "image": "images/43993.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "6628",
+    "name": "ADIDAS Men's Lowell White Silver Shoe",
+    "description": "White Sports Shoes",
+    "price": 72.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/6628.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "54924",
+    "name": "Do U Speak Green Men Blue Shorts",
+    "description": "Blue Shorts",
+    "price": 23.50,
+    "currency": "$",
+    "bestseller": true,
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "date": "2025-08-01",
+    "image": "images/54924.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "_id": "26538",
+    "name": "ID Men Red Shoes",
+    "description": "Red Casual Shoes",
+    "price": 61.00,
+    "currency": "$",
+    "bestseller": false,
+    "category": "Men",
+    "subCategory": "Shoes",
+    "date": "2025-08-01",
+    "image": "images/26538.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]
