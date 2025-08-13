@@ -5,7 +5,7 @@ import Home from './pages/Home';
 import Collection from './pages/Collections.jsx';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import Product from './pages/product';
+import Product from './pages/Product.jsx';
 import Cart from './pages/Cart';
 import Login from './pages/Login';
 import PlaceOrder from './pages/PlaceOrder';
